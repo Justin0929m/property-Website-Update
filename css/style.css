@@ -310,7 +310,7 @@ header::after {
     .navbar {
     flex-direction: column-reverse;
     align-items: start;
-    background-color: #fbe6c9;
+    background-color: cadetblue;
   }
 
   .nav-links {
