@@ -304,7 +304,7 @@ header::after {
   }
 }
 
-@media (width <= 426px) {
+@media (width <= 768px) {
     .navbar {
     flex-direction: column-reverse;
     align-items: start;
