@@ -78,6 +78,8 @@ header::after {
   justify-content: space-between;
   align-items: center;
   padding: 1rem 0;
+  /* test */
+  background-color: #fbe6c9;
 }
 
 .nav-logo {
@@ -308,6 +310,7 @@ header::after {
     .navbar {
     flex-direction: column-reverse;
     align-items: start;
+    background-color: #fbe6c9;
   }
 
   .nav-links {
